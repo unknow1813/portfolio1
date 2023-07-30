@@ -123,15 +123,24 @@
     }
     
   }
-  
-  @media screen and(max-width:960px) {
-    .portfolio{
-      display: flex;
-      padding: 50px;
-    }
+  .portfolio{
+    display: flex;
+    padding: 50px;
   }
 
 .portfolio > h1{
+  right: 40%;
+  height: 10em;
+  font-size: 500%;
+  color: #ffffff;
+}
+.about > h2{
+  right: 40%;
+  height: 10em;
+  font-size: 500%;
+  color: #ffffff;
+}
+.works>h2{
   right: 40%;
   height: 10em;
   font-size: 500%;
