@@ -204,9 +204,13 @@ li>h3{
   width: 200px;
   height: 200px;
 }
-.works>h2{
-  font-size: 500%;
-  color: #ffffff;
+.work>ul{
+  display: flex;
+  list-style: none;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding-right: 20px;
+  width: calc(100%-960px);
+  box-sizing: border-box;
 }
 li>h4{
   font-size: 500%;
