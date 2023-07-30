@@ -213,9 +213,12 @@ li>h4{
   color: #ffffff;
 }
 .contact{
+  padding-top: 10px;
+  padding-bottom: 10px;
   background-color: rgba(0, 0, 0, 0.5);
 }
 .contact>h3{
+
   font-size: 500%;
   color: #ffffff;
 }
