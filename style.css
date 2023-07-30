@@ -171,6 +171,18 @@ h2{
   font-size: 500%;
   color: #ffffff;
 }
+.maya{
+  width: 200px;
+  height: 200px;
+}
+.pre{
+  width: 200px;
+  height: 200px;
+}
+.Ai{
+  width: 200px;
+  height: 200px;
+}
 .works>h2{
   right: 40%;
   height: 10em;
