@@ -196,6 +196,11 @@ li>h3{
   font-size: 500%;
   color: #ffffff;
 }
+li>h4{
+  right: 40%;
+  font-size: 500%;
+  color: #ffffff;
+}
 .contact>h2{
   right: 40%;
   margin: 0;
