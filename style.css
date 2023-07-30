@@ -132,16 +132,6 @@
     padding: 50px;
     color: #ffffff;
   }
-  body {
-    background-image: url('rengoku.jpg');
-    background-size: cover; 
-    background-attachment: fixed; 
-    background-repeat: no-repeat; 
-    background-position: center center;
-    height: 600px;
-    max-width: 300px;
-    background-color: rgba(255, 255, 255, 1);
-} 
 .portfolio > h1{
   right: 40%;
   height: 10em;
@@ -154,4 +144,24 @@ footer{
 footer > h2{
   text-align: center;
   color: #ffffff;
+}
+@media screen and(max_width:960Px){
+  body {
+    background-image: url('rengoku.jpg');
+    background-size: cover; 
+    background-attachment: fixed; 
+    background-repeat: no-repeat; 
+    background-position: center center;
+    height: 600px;
+    max-width: 300px;
+    background-color: rgba(255, 255, 255, 1);
+} 
+
+}
+
+@media screen and(max-width:480){
+  body{
+display: none;
+  }
+  
 }
