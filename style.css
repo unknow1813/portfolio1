@@ -134,6 +134,11 @@
   font-size: 500%;
   color: #ffffff;
 }
+.about{
+  display: flex;
+  width: calc(100%-960px);
+  box-sizing: border-box;
+}
 .about > img {
   width: 100px;
   height:100px;
