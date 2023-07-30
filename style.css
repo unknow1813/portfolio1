@@ -107,7 +107,7 @@
   }
 
     body {
-      padding-top: 30px;
+      padding-top: 50px;
       background-image: url('rengoku.jpg');
       background-size: cover; 
       background-attachment: fixed; 
@@ -132,7 +132,6 @@
 
 .portfolio > h1{
   padding-top: 100px;
-  right: 40%;
   margin: 50px;
   font-size: 800%;
   color: #ffffff;
@@ -151,14 +150,12 @@
   background-image: url("rengoku_02.webp");
 }
 h2{
-  right: 40%;
   margin: 50px;
   font-size: 700%;
   color: #ffffff;
 }
 .about>h3{
   padding: 2%;
-  right: 10%;
   margin: 0;
   font-size: 600%;
   color: #ffffff;
@@ -166,7 +163,6 @@ h2{
 .about>p{
   background-color: rgba(0, 0, 0, 0.5);
   padding: 2%;
-  right: 40%;
   font-size: 300%;
   color: #ffffff;
 }
@@ -209,7 +205,6 @@ li>h3{
   height: 200px;
 }
 .works>h2{
-  right: 40%;
   font-size: 500%;
   color: #ffffff;
 }
@@ -219,7 +214,6 @@ li>h4{
   color: #ffffff;
 }
 .contact>h2{
-  right: 40%;
   margin: 0;
   font-size: 500%;
   color: #ffffff;
