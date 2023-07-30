@@ -134,7 +134,7 @@
   font-size: 500%;
   color: #ffffff;
 }
-.about{
+about{
   display: flex;
   width: calc(100%-960px);
   box-sizing: border-box;
@@ -185,7 +185,6 @@ h2{
 }
 
 footer{
-  padding-bottom: 0%;
   height: 300PX;
   background-color: black;
 }
