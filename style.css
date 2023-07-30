@@ -145,7 +145,7 @@
   border-radius:50%;
   background-image: url("rengoku_02.webp");
 }
-.about > h2{
+h2{
   right: 40%;
   height: 10em;
   font-size: 500%;
