@@ -134,10 +134,22 @@
   font-size: 500%;
   color: #ffffff;
 }
+.about > img {
+  width: 100px;
+  height:100px;
+  border-radius:50%;
+  background-image: url("rengoku_02.webp");
+}
 .about > h2{
   right: 40%;
   height: 10em;
   font-size: 500%;
+  color: #ffffff;
+}
+.about>h3{
+  right: 40%;
+  height: 10em;
+  font-size: 400%;
   color: #ffffff;
 }
 .skill >h2{
