@@ -213,7 +213,7 @@ li>h3{
   box-sizing: border-box;
 }
 .portfolio{
-  width: 200px;
+  width: 300px;
   height: auto;
 }
 
@@ -234,10 +234,10 @@ li>h4{
 }
 footer{
   display: block;
-  height: 300PX;
+  height: 100px;
   background-color: black;
 }
-footer > h2{
+footer > h3{
   text-align: center;
   color: #ffffff;
 }
