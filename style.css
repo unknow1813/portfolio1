@@ -117,13 +117,7 @@
       max-width: auto;
       background-color: rgba(255, 255, 255, 1);
   }
-  
-  @media (max-width:480px){
-    body{
-      display: none;
-    }
     
-  }
   .portfolio{
     display: flex;
     background-color: rgba(0, 0, 0, 0.5);
@@ -131,7 +125,6 @@
   }
 
 .portfolio > h1{
-  padding-top: 100px;
   margin: 50px;
   font-size: 800%;
   color: #ffffff;
@@ -180,6 +173,10 @@ h2{
 .skill.ul>li>h3{
   padding-right: 50px;
 }
+.etc{
+  padding-top: 200px;
+}
+
 .skill >h2{
   right: 40%;
   height: 10em;
