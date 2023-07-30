@@ -161,7 +161,7 @@ footer > h2{
 
 @media screen and(max-width:480px){
   body{
-display: none;
+display: flex;
   }
   
 }
