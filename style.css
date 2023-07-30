@@ -134,7 +134,7 @@
   font-size: 500%;
   color: #ffffff;
 }
-about{
+.about{
   display: flex;
   width: calc(100%-960px);
   box-sizing: border-box;
@@ -153,16 +153,18 @@ h2{
   color: #ffffff;
 }
 .about>h3{
-  padding-left: 20%;
-  right: 60%;
+  padding-left: 50px;
+  right: 10%;
   height: 10em;
-  font-size: 300%;
+  font-size: 600%;
   color: #ffffff;
 }
 .about>p{
+  padding-right: 300px;
+  padding-top: 100px;
   right: 40%;
   height: 10em;
-  font-size: 200%;
+  font-size: 300%;
   color: #ffffff;
 }
 .skill >h2{
@@ -197,6 +199,7 @@ h2{
 }
 
 footer{
+  display: block;
   height: 300PX;
   background-color: black;
 }
