@@ -212,6 +212,11 @@ li>h3{
   width: calc(100%-960px);
   box-sizing: border-box;
 }
+.portfolio{
+  width: 200px;
+  height: auto;
+}
+
 li>h4{
   font-size: 500%;
   color: #ffffff;
