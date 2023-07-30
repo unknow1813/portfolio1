@@ -140,7 +140,19 @@
   font-size: 500%;
   color: #ffffff;
 }
+.skill >h2{
+  right: 40%;
+  height: 10em;
+  font-size: 500%;
+  color: #ffffff;
+}
 .works>h2{
+  right: 40%;
+  height: 10em;
+  font-size: 500%;
+  color: #ffffff;
+}
+.contact>h2{
   right: 40%;
   height: 10em;
   font-size: 500%;
