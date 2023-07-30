@@ -124,9 +124,11 @@
     
   }
   
-  .portfolio{
-    display: flex;
-    padding: 50px;
+  @media screen and(max-width:960px) {
+    .portfolio{
+      display: flex;
+      padding: 50px;
+    }
   }
 
 .portfolio > h1{
@@ -135,6 +137,7 @@
   font-size: 500%;
   color: #ffffff;
 }
+
 footer{
   background-color: black;
 }
