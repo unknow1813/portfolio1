@@ -131,8 +131,11 @@
 }
 .about{
   display: flex;
+  padding-top: 50px;
+  padding-bottom: 50px;
   width: calc(100%-960px);
   box-sizing: border-box;
+  background-color: rgba(255, 0, 0, 0.5);
 }
 .about > img {
   padding-left: 50px;
@@ -154,7 +157,7 @@ h2{
   color: #ffffff;
 }
 .about>p{
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 1);
   padding: 2%;
   font-size: 300%;
   color: #ffffff;
@@ -206,16 +209,12 @@ li>h3{
   color: #ffffff;
 }
 li>h4{
-  right: 40%;
   font-size: 500%;
   color: #ffffff;
 }
-.contact>h2{
-  margin: 0;
-  font-size: 500%;
-  color: #ffffff;
-}
+.contact>h3{
 
+}
 footer{
   display: block;
   height: 300PX;
