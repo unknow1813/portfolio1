@@ -148,7 +148,7 @@
 }
 h2{
   right: 40%;
-  margin: 0;
+  margin: 50px;
   font-size: 500%;
   color: #ffffff;
 }
@@ -163,7 +163,6 @@ h2{
   padding-right: 300px;
   padding-top: 100px;
   right: 40%;
-  height: 10em;
   font-size: 300%;
   color: #ffffff;
 }
