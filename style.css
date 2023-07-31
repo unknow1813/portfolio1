@@ -1,7 +1,8 @@
 /* CSSコード */
 .header {
-    display: flex;
-    margin: 0ß;
+  position: fixed;
+  top: 0;
+  left: 0;
     height: 30px;
     width: 100%;
 
@@ -9,23 +10,20 @@
   .nav_list{
     display: flex;
     list-style: none;
-    background-color: rgba(0, 0, 0, 0.5);
-    padding-right: 20px;
+    background-color: rgba(0, 0, 0, 1);
     width: calc(100%-960px);
     box-sizing: border-box;
   }
   
   .nav_item{
-
     display: flex;
-    padding-top: 50px;
+    padding-right: 30px;
     font-size: 500%;
     color: black;
-
   }
 
     body {
-      padding-top: 50px;
+      padding-top: 100px;
       background-image: url('rengoku.jpg');
       background-size: cover; 
       background-attachment: fixed; 
