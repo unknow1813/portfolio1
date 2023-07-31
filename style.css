@@ -1,4 +1,11 @@
-
+header{
+  display: flex;
+  list-style: none;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding-right: 20px;
+  width: calc(100%-960px);
+  box-sizing: border-box;
+}
   .nav_item{
 
     display: flex;
