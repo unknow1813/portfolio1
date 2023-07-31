@@ -1,4 +1,4 @@
-header{
+.nav_item{
   display: flex;
   list-style: none;
   background-color: rgba(0, 0, 0, 0.5);
